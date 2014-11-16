@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="FoodFromTheHeart.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title>colour_orange</title>
+
+    <link href="Styles/Style.css" rel="stylesheet" type="text/css" media="screen" runat="server"/>
+
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+</head>
+
+<!------------------------------------------------ Body Below ---------------------------------------------------->
+<!------------------------------------------------ Body Below ---------------------------------------------------->
+<!------------------------------------------------ Body Below ---------------------------------------------------->
+<!------------------------------------------------ Body Below ---------------------------------------------------->
+
+<body>
+
+    <div id="main">
+
+
+    <!--Start of Header-->
+
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <!-- Original Title<h1><a href="#">Food<span class="logo_colour">From The Heart</span></a></h1> -->
+            &nbsp;</div>
+
+      </div>
+
+          <div id="menubar">
+                <ul id="menu">
+                  <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+                  <li class="selected"><a href="#">Home</a></li>
+                  <li><a href="#">Examples</a></li>
+                  <li><a href="#">A Page</a></li>
+                  <li><a href="#">Another Page</a></li>
+                  <li><a href="#">Contact Us</a></li>
+                </ul>
+          </div>
+
+    </div>
+
+    <!-- End of Header-->
+
+        <!-- Start of Site Content-->
+
+            <div id="site_content">
+
+                            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+            
+                            <!-- Page Content -->
+
+
+            </div>
+
+        <!-- End of Site Content-->
+
+
+        <div id="footer">
+
+        Items
+
+        </div>
+
+</div>
+
+</body>
+</html>

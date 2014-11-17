@@ -1,0 +1,23 @@
+﻿#Login
+{
+    margin-left:33%;
+    margin-right:33%;
+    margin-top:33%;
+    margin-bottom:33%;
+    }
+    
+table
+{
+    background:white;
+    border-collapse:collapse;
+}
+
+.style1
+{
+    width: 300px;
+}
+
+td
+{
+    padding:5px;
+}

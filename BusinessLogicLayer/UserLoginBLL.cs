@@ -12,7 +12,7 @@ namespace BusinessLogicLayer
         {
             string returnMessage = "";
 
-            if (username.Length < 0) { returnMessage += "Username cannot be empty!"; }
+            if (username.Length < 0) { returnMessage += "Username cannot be empty!!!"; }
             if (password.Length < 0) { returnMessage += "Password cannot be empty!"; }
                
                 if (returnMessage.Length == 0)

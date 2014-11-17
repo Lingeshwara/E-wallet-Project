@@ -36,7 +36,7 @@ namespace WindowsFormsApplication1
                 serialPort1.WriteLine(text);
             }
 
-            MessageBox.Show("transferred successful");
+            MessageBox.Show("$1000 transferred successful");
         }
     }
 }

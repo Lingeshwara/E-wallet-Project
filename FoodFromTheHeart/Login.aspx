@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.master" AutoEventWireup="true"
-    CodeBehind="Index.aspx.cs" Inherits="FoodFromTheHeart._Default" %>
+    CodeBehind="Login.aspx.cs" Inherits="FoodFromTheHeart._Default" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
     <link href="Styles/MaxStyle.css" rel="stylesheet" type="text/css" />

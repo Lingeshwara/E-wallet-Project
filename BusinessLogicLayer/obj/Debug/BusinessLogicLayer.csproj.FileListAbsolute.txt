@@ -1,0 +1,18 @@
+C:\Users\Jun Jie\Desktop\FoodFromTheHeart\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Jun Jie\Desktop\FoodFromTheHeart\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Jun Jie\Desktop\FoodFromTheHeart\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Jun Jie\Desktop\FoodFromTheHeart\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Jun Jie\Desktop\FoodFromTheHeart\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jun Jie\Desktop\FoodFromTheHeart\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Jun Jie\Desktop\FoodFromTheHeart\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Lingesh\Desktop\ProjectOrigin\FoodFromTheHeart\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Lingesh\Desktop\ProjectOrigin\FoodFromTheHeart\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Lingesh\Desktop\ProjectOrigin\FoodFromTheHeart\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lingesh\Desktop\ProjectOrigin\FoodFromTheHeart\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lingesh\Desktop\ProjectOrigin\FoodFromTheHeart\BusinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lingesh\Desktop\ProjectOrigin\FoodFromTheHeart\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Lingesh\Desktop\ProjectOrigin\FoodFromTheHeart\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Pravinezh\Desktop\Lingesh\FoodFromTheHeartProjectL\FoodFromTheHeart\BusinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pravinezh\Desktop\Lingesh\FoodFromTheHeartProjectL\FoodFromTheHeart\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\user\Downloads\hi\FoodFromTheHeartProjectL\FoodFromTheHeartProjectL\FoodFromTheHeart\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\hi\FoodFromTheHeartProjectL\FoodFromTheHeartProjectL\FoodFromTheHeart\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
